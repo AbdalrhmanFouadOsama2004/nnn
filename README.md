@@ -1,4 +1,4 @@
- 🌾 Agricultural RAG System
+ # 🌾 Agricultural RAG System
 
 A Retrieval-Augmented Generation (RAG) application that answers questions about agriculture using a curated agricultural knowledge base, semantic search, and a locally run language model. The project includes an interactive Gradio interface, a FastAPI/LangServe endpoint, and built-in evaluation utilities.
 
